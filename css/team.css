@@ -13,9 +13,13 @@ color: #2e2f42;
 
 .li-team{
  background-color: #fff;
+ width: 264px;
+ height: 380px;
 }
 
 .h3-team {
+    padding-top: 32px;
+    padding-bottom: 8px;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -31,4 +35,17 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
+}
+
+.team-div {
+    max-width: 1158px;
+    margin: 0px auto;
+    padding-bottom: 120px;
+    padding-top: 120px;
+}
+
+.ul-team {
+    display: flex;
+    gap: 24px;
+    padding-top: 72px;
 }

@@ -6,6 +6,7 @@ line-height: 1.33333;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2e2f42;
+margin-right: 76px;
 }
 
 .logo-span {   
@@ -24,6 +25,13 @@ color: #4d5ae5;
     color: #404bbf;
 }
 
+.nav-ul{
+    display: flex;
+    gap: 40px;
+    margin-right: 340px;
+}
+
+
 .address {
 font-weight: 400;
 font-style: normal;
@@ -36,4 +44,16 @@ color: #434455;
 .address:hover,
 .address:focus {
     color: #404bbf;
+}
+.adress-ul {
+    display: flex;
+    gap: 40px;
+}
+
+
+.container-header{
+    display: flex;
+    max-width: 1158px;
+    margin: 0 auto;
+    padding: 24px 15px;
 }

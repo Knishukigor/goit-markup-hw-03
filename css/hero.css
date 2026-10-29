@@ -9,15 +9,22 @@ line-height: 1.07143;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+width: 496px;
+margin: 0 auto;
+padding-bottom: 48px;
 }
 
 .button-hero {
+    display: block;
+    margin: 0 auto;
     cursor: pointer;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+width: 169px;
+height: 56px;
 
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
@@ -26,4 +33,10 @@ background: #4d5ae5;
 .button-hero:hover,
 .button-hero:focus {
     background-color: #404bbf;
+}
+
+.hero-div{
+    max-width: 1158px;
+    margin: 0px auto;
+   padding: 188px;
 }
