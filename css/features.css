@@ -1,5 +1,6 @@
 .features-section{ 
-    padding: 120px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .features {
@@ -21,11 +22,9 @@ color: #434455;
 
 .features-ul{
     display: flex;
-    justify-content: space-between;
     gap: 24px;
 }
 
 .li-features {
     width: 264px;
-    height: 104px;
 }

@@ -54,13 +54,14 @@ padding-top: 60px;
 
 .head-cont{
       display: flex;
-    max-width: 1158px;
-    margin: 0 auto;
-    border-bottom: 1px solid #e7e9fc
 }
 
 
 .navig {
     padding-top: 24px;
     padding-bottom: 24px;
+}
+
+.headd{
+    border-bottom: 1px solid #e7e9fc;
 }

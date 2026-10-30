@@ -37,8 +37,3 @@ background: #4d5ae5;
 .button-hero:focus {
     background-color: #404bbf;
 }
-
-.hero-div{
-    max-width: 1158px;
-    margin: 0px auto;
-}
