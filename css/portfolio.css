@@ -53,4 +53,5 @@ color: #434455;
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
+    row-gap: 48px;
 }
